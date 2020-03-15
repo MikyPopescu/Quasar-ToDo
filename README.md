@@ -1,3 +1,5 @@
+Multiplatform ToDoApp build with Quasar Framework
+
 # Todo (todoapp)
 
 A Quasar Framework app
@@ -20,3 +22,5 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+
