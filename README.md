@@ -4,6 +4,8 @@ Multiplatform ToDoApp build with Quasar Framework
 
 A Quasar Framework app
 
+### Demo: https://quasar-miky-todo-demo.netlify.app/#/
+
 ## Install the dependencies
 ```bash
 npm install
